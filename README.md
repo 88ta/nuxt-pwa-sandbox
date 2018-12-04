@@ -1,6 +1,8 @@
 # nuxt-pwa-sandbox
 
-> My first-rate Nuxt.js project
+![pwa-score](https://i.imgur.com/R3q89Fk.png "pwa-score")
+
+![sw](https://i.imgur.com/Tf8KYM2.png "sw")
 
 ## Build Setup
 
@@ -18,5 +20,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
