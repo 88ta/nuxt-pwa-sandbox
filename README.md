@@ -1,8 +1,17 @@
 # nuxt-pwa-sandbox
+Nuxt.js PWA on GAE on StanderdEnvironment
 
 ![pwa-score](https://i.imgur.com/R3q89Fk.png "pwa-score")
 
-![sw](https://i.imgur.com/Tf8KYM2.png "sw")
+## Demo
+https://nuxt-pwa-sandbox.appspot.com/
+
+
+## Feature
+SPA
+SSR
+PWA
+Serverless(GAE/SE)
 
 ## Build Setup
 
