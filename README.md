@@ -1,4 +1,4 @@
-# nuxt-sandbox
+# nuxt-pwa-sandbox
 
 > My first-rate Nuxt.js project
 

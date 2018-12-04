@@ -44,7 +44,7 @@ module.exports = {
     '@nuxtjs/pwa'
   ],
   manifest: {
-    name: 'nuxt-sandbox',
+    name: 'nuxt-pwa-sandbox',
     lang: 'ja'
   },
   /*

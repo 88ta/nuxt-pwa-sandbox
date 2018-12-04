@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-sandbox
+        nuxt-pwa-sandbox
       </h1>
       <h2 class="subtitle">
         My first-rate Nuxt.js project
